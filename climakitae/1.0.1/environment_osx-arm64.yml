@@ -39,3 +39,4 @@ dependencies:
   - pygeos=0.13
   - statsmodels=0.13.2
   - pint=0.19.2
+  - setuptools=65.3.0
