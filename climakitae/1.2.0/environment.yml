@@ -73,3 +73,12 @@ dependencies:
   - urllib3=1.26.19
   - zarr=2.18.3
   - zipp=3.21.0
+  - numba=0.60.0
+  - timezonefinder=6.5.4
+  - dask-geopandas=0.4.2
+  - xclim=0.53.1
+  - h3-py=4.1.1
+  - cf_xarray=0.10.0
+  - filelock=3.16.1
+  - yamale=5.2.1
+  - distributed=2024.11.0
