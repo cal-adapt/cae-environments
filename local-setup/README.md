@@ -10,4 +10,8 @@ make local
 ```
 
 ## Conda 
-[Instructions for setting up conda env]
+To build the conda environment, use the following command, modifying it as neccessary to use the appropriate lockfile for your machine: 
+```
+conda create -n climakitae --file conda-osx-64.lock
+conda activate climakitae
+```
